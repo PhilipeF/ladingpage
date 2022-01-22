@@ -20,6 +20,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias
 - [HTML](https://en.wikipedia.org/wiki/HTML): A HyperText Markup Language, ou HTML, é a linguagem de marcação padrão para documentos projetados para serem exibidos em um navegador da web. Ele pode ser auxiliado por tecnologias como Cascading Style Sheets e linguagens de script como JavaScript. 
 <br>
 <br>
+
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Cascading Style Sheets (CSS) é uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em HTML ou XML (incluindo dialetos XML como SVG, MathML ou XHTML). CSS descreve como os elementos devem ser renderizados na tela, no papel, na fala ou em outras mídias.
 
 ## 🔧 Instalação e execução 
