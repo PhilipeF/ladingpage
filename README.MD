@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para treinar minhas habiliades em html e css.
 
-Foi criado uma lading page simples mais que com certeza ira agregar muito para os meus conhecimentos visando projetos maiores no futuro.
+Foi criado uma lading page simples seguindo orientações de um video no canal da <a href="https://www.youtube.com/c/rafaellaballerini">Rafaella Ballerini</a> no youtube mais que com certeza ira agregar muito para os meus conhecimentos pois foi praticado HTML/CSS.
 <br>
 <br>
 ## 🚀 Tecnologias e ferramentas utilizadas 
@@ -38,8 +38,14 @@ https://github.com/PhilipeF/ladingpagegit
 Execute o projeto:
 
 ```
-Para executar o projeto foi utilizado a extensão Live Share do vscode
+Para executar o projeto foi utilizado a extensão Live Server do vscode
 ```
+
+<h2>Segue a baixo um video do projeto</h2>
+
+
+https://user-images.githubusercontent.com/64853039/157830520-66b446e0-ff4e-4f06-8728-1038e6bb68dd.mp4
+
 
 ## 📲 Contato
 
