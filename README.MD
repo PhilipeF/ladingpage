@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para treinar minhas habiliades em html e css.
 
-Foi criado uma lading page simples seguindo orientações de um video no canal da <a href="https://www.youtube.com/c/rafaellaballerini">Rafaella Ballerini</a> no youtube mais que com certeza ira agregar muito para os meus conhecimentos pois foi praticado HTML/CSS.
+Foi criado uma lading page simples seguindo orientações do canal da <a href="https://www.youtube.com/c/rafaellaballerini">Rafaella Ballerini</a> no youtube, mais que com certeza ira agregar muito para os meus conhecimentos pois foi praticado HTML/CSS.
 <br>
 <br>
 ## 🚀 Tecnologias e ferramentas utilizadas 
