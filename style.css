@@ -28,6 +28,7 @@ body {
 .cabecalho-menu {
     display: flex;
     gap: 32px;
+    cursor: pointer;
 }
 
 .cabecalho-menu-item {
